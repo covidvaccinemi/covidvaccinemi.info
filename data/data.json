@@ -1,20 +1,16 @@
 {
   "data": [
     [
-      "Tigger Nixon",
-      "System Architect",
-      "Edinburgh",
-      "5421",
-      "2011/04/25",
-      "$320,800"
+      "Washtenaw",
+      "No",
+      "<a href='https://www.washtenaw.org/3269/COVID-19-Vaccination'>Link</a>",
+      "2021/01/25",
     ],
     [
-      "Garrett Winters",
-      "Accountant",
-      "Tokyo",
-      "8422",
-      "2011/07/25",
-      "$170,750"
+      "Wanye",
+      "No",
+      "<a href='https://www.waynecounty.com/covid19/covid-19-vaccine-information.aspx'>Link</a>",
+      "2021/01/15",
     ]
   ]
 }
