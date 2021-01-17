@@ -20,7 +20,6 @@ $(document).ready(function() {
             <tr>
                 <th>County</th>
                 <th>Has capacity</th>
-                <th>Link</th>
                 <th>Updated</th>
             </tr>
         </thead>
