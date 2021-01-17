@@ -1,3 +1,4 @@
 title: Michigan COVID-19 Vaccine Tracker
+description: A volunteer effort to track vaccine availibility in Michigan.
 theme: minima
 include: [ "data" ]
