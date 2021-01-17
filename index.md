@@ -18,11 +18,10 @@ $(document).ready(function() {
 <table id="example" class="display" style="width:100%">
         <thead>
             <tr>
-                <th>Name</th>
-                <th>Position</th>
-                <th>Office</th>
-                <th>Age</th>
-                <th>Start date</th>
+                <th>County</th>
+                <th>Has capacity</th>
+                <th>Link</th>
+                <th>Updated</th>
             </tr>
         </thead>
   </table>
