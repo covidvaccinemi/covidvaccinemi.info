@@ -9,7 +9,9 @@ layout: page
 
 <script type="text/javascript" charset="utf8">
 $(document).ready(function() {
-    $('#example').DataTable();
+    $('#example').DataTable( {
+        "ajax": 'data/data/.json'
+    } );
 } );
 </script>
 
